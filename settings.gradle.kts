@@ -7,4 +7,4 @@ pluginManagement {
     }
 }
 
-rootProject.name = "Template"
+rootProject.name = "JMessage"

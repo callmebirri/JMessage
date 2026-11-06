@@ -1,12 +1,8 @@
 name: '${name}'
 version: '${version}+${gitCommit}'
-main: tech.qhuyy.template.Template
+main: tech.qhuyy.jsmessage.JMessage
 api-version: '${apiVersion}'
 folia-supported: true
 load: STARTUP
-authors: [ hqng05 ]
+authors: [ birri ]
 website: https://qhuyy.tech
-libraries:
-  - com.zaxxer:HikariCP:5.1.0
-  - com.mysql:mysql-connector-j:9.7.0
-  - org.xerial:sqlite-jdbc:3.53.2.0
