@@ -1,7 +1,7 @@
 name: '${name}'
 version: '${version}+${gitCommit}'
 main: tech.qhuyy.jsmessage.JMessage
-api-version: '${apiVersion}'
+api-version: "1.21"
 folia-supported: true
 load: STARTUP
 authors: [ birri ]
